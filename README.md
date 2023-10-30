@@ -1,2 +1,1 @@
-# M01-Collaboration
-M01 Collaboration
+print("Hello World")
